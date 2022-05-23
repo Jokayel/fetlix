@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="db" uuid="385d93a0-fbae-4a71-a5e5-4bea4c2fd534">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\Acceso_Rapido\Escritorio\JOEL ESTUDIS\5-CFGS INFORMATICA DAW\2n DAW\M07_Desenvolupament web en entorn servidor\UF4\CURSO DJANGO\fetlix\db.sqlite3</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
